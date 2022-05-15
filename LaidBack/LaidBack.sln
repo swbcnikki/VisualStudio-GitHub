@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaidBack.gandj", "LaidBack.gandj\LaidBack.gandj.csproj", "{18392D4F-9B67-4CD4-AE41-A4D23509211D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18392D4F-9B67-4CD4-AE41-A4D23509211D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18392D4F-9B67-4CD4-AE41-A4D23509211D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18392D4F-9B67-4CD4-AE41-A4D23509211D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18392D4F-9B67-4CD4-AE41-A4D23509211D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1B9E5B-617C-4EFC-AE12-F62D8357E4B4}
+	EndGlobalSection
+EndGlobal
